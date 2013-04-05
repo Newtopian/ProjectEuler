@@ -1,0 +1,8 @@
+D:\work\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe.config
+D:\work\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe
+D:\work\ProjectEuler\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
+D:\work\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csprojResolveAssemblyReference.cache
+D:\work\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.Properties.Resources.resources
+D:\work\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csproj.GenerateResource.Cache
+D:\work\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.exe
+D:\work\ProjectEuler\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
