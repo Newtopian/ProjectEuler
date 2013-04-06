@@ -12,7 +12,9 @@ namespace ProjectEuler
         [STAThread]
         static void Main()
         {
-            Console.WriteLine("Solution to Problem 1 is = " + Problem1.SolveProblem());
+			Console.WriteLine("Solution to Problem 1 is = " + Problem1.SolveProblem());
+			Console.WriteLine("Solution to Problem 2 is = " + Problem2.SolveProblem());
+
         }
     }
 }

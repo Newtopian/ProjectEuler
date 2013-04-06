@@ -46,6 +46,13 @@ namespace ProjectEuler
         public static IEnumerable<int> To(this IEnumerable<int> collection, int end)
         {
             return collection.TakeWhile(item => item <= end);
-        }
+		}
+
+		public static IEnumerable<int> Fibo(this IEnumerable<int> collection)
+		{
+			//if(collection.Count() < 2) throw new InvalidOperationException("cannot compute a fibonnaci sequence without 2 starting numbers in the array");
+
+			yield return collection.Last() + collection.ElementAt(collection.Count() - 2);
+		}
     }
 }
